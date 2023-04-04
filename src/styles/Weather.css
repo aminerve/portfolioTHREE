@@ -1,0 +1,22 @@
+.weatherApi{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding: 25px;
+    font-size: 2rem;
+}
+
+.input{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+input:focus{
+    outline: none;
+}
+
