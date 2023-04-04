@@ -7,16 +7,16 @@ export const ProjectList = [
   {
     name: "Quiz Game",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "JavaScript, HTML, CSS",
   },
   {
     name: "Nike Website Clone",
     image: Proj2,
-    skills: "React,Node.js,",
+    skills: "React, Node.js, CSS",
   },
   {
     name: "Dog App",
     image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
+    skills: "React, Node.js, CSS, thedogAPI",
   }
 ];

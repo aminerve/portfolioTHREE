@@ -2,14 +2,18 @@ import { Email, GitHub, LinkedIn } from '@material-ui/icons'
 import React from 'react'
 import '../styles/Home.css'
 import WeatherDisplay from '../components/Weather'
+import { Type } from '../components/Type'
+import { Techstacks } from '../components/Skills'
 
 export default function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, my Name is Aiden </h2>
+        <div className='type'>
+          <Type/>
+          </div>
         <div className="prompt">
-          <p>A software developer with a passion for learning and creating.</p>
+          <p>A Hardworking Software Engineer with a strong desire to learn and improve best practices.</p>
         <LinkedIn/>
         <Email/>
         <GitHub/>
@@ -19,19 +23,8 @@ export default function Home() {
         <WeatherDisplay />
       </div>
       <div className="skills">
-        <h1>Skills</h1>
-        <ol className='list'>
-            <li className='item'>
-              <h2>Front-End</h2>
-              <span> 
-              ReactJS, HTML, CSS, JavaScript, React Native, NPM, BootStrap, MaterialUI, StyledComponents
-              </span>
-            </li>
-            <li className='item'>
-              <h2>Languages</h2>
-              <span>JavaScript, Python, </span>
-            </li>
-        </ol>
+
+        <Techstacks/>
       </div>
     </div>
   )

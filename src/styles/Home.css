@@ -1,3 +1,5 @@
+
+
 .home {
     width: 100%;
     align-items: center;
@@ -13,14 +15,13 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #21325e;
+    background-color: #f2cc8f;
     color: #f0f0f0;
   }
   
   .about h2 {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     font-size: 80px;
-    color: #e9d35b;
+    color: #21325e;
     height: 50px;
   }
   
@@ -41,6 +42,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+
   }
   
   .skills h1 {
