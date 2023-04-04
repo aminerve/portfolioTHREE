@@ -17,9 +17,6 @@ This is a Personal Portfolio created using React, CSS and Installed Components
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Code Example
-
-Uses Arrays for the questions and a function to cycle through them. Also contains a timer function that ends the game when it reaches 0 and a function that saves the highest score attained.
 ## Resources
 
 - https://www.youtube.com/watch?v=x7mwVn2z3Sk&t=127s Layout and Css
