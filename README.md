@@ -21,3 +21,4 @@ This is a Personal Portfolio created using React, CSS and Installed Components
 
 - https://www.youtube.com/watch?v=x7mwVn2z3Sk&t=127s Layout and Css
 - https://www.youtube.com/watch?v=rtR4s626ebE Weather Api
+- https://www.npmjs.com/package/react-vertical-timeline-component Vertical Element
