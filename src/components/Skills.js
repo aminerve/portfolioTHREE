@@ -1,18 +1,17 @@
 import React from "react";
-import { FaReact, FaNodeJs, FaAws } from "react-icons/fa";
+import { FaReact, FaNodeJs, } from "react-icons/fa";
 import {
   SiHtml5,
-  SiExpress,
   SiNetlify
 } from "react-icons/si";
-import { DiCss3, DiMongodb } from "react-icons/di";
+import { DiCss3} from "react-icons/di";
 import { SiJavascript } from "react-icons/si";
 import { VscGithub } from "react-icons/vsc";
 import { BsBootstrap } from "react-icons/bs";
 
-import "../styles/Techstacks.css";
+import "../styles/Skills.css";
 
-export const Techstacks = () => {
+export const Skills = () => {
   return (
     <>
       <div className="section main" data-aos="fade-right">
@@ -38,10 +37,7 @@ export const Techstacks = () => {
             <FaNodeJs />
             <h5>Bootstrap</h5>
           </div>
-          <div>
-            <DiMongodb />
-            <h5>Bootstrap</h5>
-          </div>
+
           <div>
             <BsBootstrap />
             <h5>Bootstrap</h5>

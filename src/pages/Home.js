@@ -3,7 +3,7 @@ import React from 'react'
 import '../styles/Home.css'
 import WeatherDisplay from '../components/Weather'
 import { Type } from '../components/Type'
-import { Techstacks } from '../components/Skills'
+import { Skills } from '../components/Skills'
 
 export default function Home() {
   return (
@@ -24,7 +24,7 @@ export default function Home() {
       </div>
       <div className="skills">
 
-        <Techstacks/>
+        <Skills/>
       </div>
     </div>
   )
