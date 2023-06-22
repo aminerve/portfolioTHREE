@@ -14,9 +14,10 @@ export default function Home() {
           </div>
         <div className="prompt">
           <p>A Hardworking Software Engineer with a strong desire to learn and improve best practices.</p>
-        <LinkedIn/>
-        <Email/>
-        <GitHub/>
+          <a href='https://www.linkedin.com/in/aiden-minerve-567085266/' target='_blank' rel="noopener noreferrer"><LinkedIn/></a>
+          <a href='https://github.com/aminerve' target='_blank' rel="noopener noreferrer"><GitHub/></a>
+          <a href='mailto:aidenminerve@gmail.com' target='_blank' rel="noopener noreferrer"><Email/></a>
+        
         </div>
       </div>
       <div className='weatherApi'>
