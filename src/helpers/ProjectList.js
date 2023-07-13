@@ -1,5 +1,5 @@
 import Proj1 from "../assets/proj1.PNG";
-import Proj2 from "../assets/proj2.PNG";
+import Proj2 from "../assets/proj2.png";
 import Proj3 from "../assets/proj3.jpg";
 ;
 
@@ -11,13 +11,13 @@ export const ProjectList = [
     github: "https://github.com/aminerve/quizgamev2"
   },
   {
-    name: "Nike Website Clone",
+
     image: Proj2,
-    skills: "React, Node.js, CSS",
-    github: "https://github.com/aminerve/nikeapp"
+    skills: "Mongo DB, Express.js, React.js, Node.js, CSS",
+    github: "https://github.com/aminerve/Mern-Stack-TodoApp"
   },
   {
-    name: "Dog App",
+    name: "The Dog App",
     image: Proj3,
     skills: "React, Node.js, CSS, thedogAPI",
     github: "https://github.com/aminerve/TheDogApp"

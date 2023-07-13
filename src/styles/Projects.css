@@ -49,6 +49,8 @@
 
 .projectItem h1 {
   font-size: 25px;
+  margin-top: ;
+  color: rgb(185, 180, 180);
 }
 
 @media only screen and (max-width: 1300px) {
